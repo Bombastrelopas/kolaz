@@ -5,7 +5,7 @@ from PIL import Image
 
 #Important Variables
 kolaz = Image.new("RGB", (6000,3000))
-#Master
+#Master2
 
 
 #constants

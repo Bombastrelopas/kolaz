@@ -3,9 +3,10 @@ import operator
 import os, sys
 from PIL import Image
 
+#Edited Note
 #Important Variables
 kolaz = Image.new("RGB", (6000,3000))
-
+hello there;
 #constants
 x0 = 0
 y0 = 1
